@@ -1,0 +1,10 @@
+body{
+  font-family: 'Solway', serif;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+.t{
+  font-family: 'Brush Script MT', cursive;
+}
